@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  SQLiteManager.cpp
+  Generating Code...
+D:\BomXanhG-Z_File\text C++\SQLite-Demo\SQLite-Demo\SQLiteManager.cpp(128,1): warning C4715: '`SQLiteManager::ShowInfoFile'::`2'::<lambda_1>::operator()': not all control paths return a value
+  SQLite-Demo.vcxproj -> D:\BomXanhG-Z_File\text C++\SQLite-Demo\x64\Debug\SQLite-Demo.exe
